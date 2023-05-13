@@ -4,7 +4,7 @@ release_pod_version = '0.1.0' # generated; do not edit
 # so we have to fetch the correct version here.
 framework_name = 'gpt_tokenizer.xcframework'
 remote_zip_name = "#{framework_name}.zip"
-url = "https://github.com/SimonWang9610/gpt_tokenizer/releases/download/#{release_tag_name}/#{remote_zip_name}"
+url = "https://github.com/MousyBusiness/gpt_tokenizer/releases/download/#{release_tag_name}/#{remote_zip_name}"
 local_zip_name = "#{release_tag_name}.zip"
 
 `
