@@ -6,9 +6,6 @@ repository: https://github.com/SimonWang9610/gpt_tokenizer/tree/main/packages/gp
 environment:
   sdk: ">=2.18.0 < 3.0.0"
 
-# dependencies:
-#   path: ^1.8.0
-
 dev_dependencies:
   ffigen: ^7.2.9
   lints: ^2.0.0
